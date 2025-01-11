@@ -75,6 +75,10 @@ const buttonTop = document.querySelector('.btn');
             }
             return hexColorRep;
         };
+
+        //Randomizing the squares' RGB values with ach iteration 
+
+
         
 
 
